@@ -1,0 +1,40 @@
+{
+    "name": "Moderator Type A",
+    "roleType": "DEFENDER",
+    "attackType": "ALL_AROUND",
+    "movementType": "GROUND",
+    "image": "/Bosses/Nervier.png",
+    "NORMAL": {
+        "level": 80,
+        "baseStats" : {
+            "health": 570323,
+            "attack": 4616,
+            "defense": 1288,
+            "crit": 627,
+            "hit": 648,
+            "evasion": 432
+        }
+    },
+    "HARD": {
+        "level": 100,
+        "baseStats" : {
+            "health": 901141,
+            "attack": 7246,
+            "defense": 1868,
+            "crit": 816,
+            "hit": 938,
+            "evasion": 624
+        }
+    },
+    "NIGHTMARE": {
+        "level": 130,
+        "baseStats" : {
+            "health": 2070294,
+            "attack": 11961,
+            "defense": 2999,
+            "crit": 1124,
+            "hit": 1500,
+            "evasion": 1000
+        }
+    }
+}

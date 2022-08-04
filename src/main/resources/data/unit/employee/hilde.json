@@ -1,0 +1,233 @@
+{
+    "name": "Hilde",
+    "faction": "Fenrir Division",
+    "rarity": "SR",
+    "employeeType": ["COUNTER"],
+    "roleType": "STRIKER",
+    "attackType": "GROUND",
+    "movementType": "GROUND",
+    "deploymentCost": 3,
+    "baseStats" : {
+        "health": 2550,
+        "healthGrowth": 409,
+        "attack": 265,
+        "attackGrowth": 34,
+        "defense": 222,
+        "defenseGrowth": 4,
+        "crit": 176,
+        "critGrowth": 3,
+        "hit": 143,
+        "hitGrowth": 3,
+        "evasion": 403,
+        "evasionGrowth": 7
+    },
+    "basicSkill": {
+        "name": "Basic Attack",
+        "description": "Moves forward, knocking enemies backward with AoE damage.",
+        "damage": [
+            {
+                "description": "Upon deployment, inflicts AoE damage around her",
+                "levels": {
+                    "1": {
+                        "instances": [
+                            {
+                                "description": "Attack String 1",
+                                "attackCoefficient": 1500
+                            },
+                            {
+                                "description": "Attack String 2",
+                                "attackCoefficient": 1500
+                            },
+                            {
+                                "description": "Attack String 3",
+                                "attackCoefficient": 3000
+                            },
+                            {
+                                "description": "Attack String 4",
+                                "attackCoefficient": 4000
+                            }
+                        ]
+                    },
+                    "2": {
+                        "damage": 5
+                    },
+                    "3": {
+                        "damage": 5
+                    },
+                    "4": {
+                        "damage": 5
+                    },
+                    "5": {
+                        "damage": 5
+                    }
+                }
+            }
+        ]
+    },
+    "passiveSkills": [
+        {
+            "name": "Valkyrie's Will",
+            "description": "Uses her experience of fighting otherworldly enemies to command others. Upon deployment, inflicts AoE damage around her and increases ATK by 10% for all Counters, including herself.",
+            "buffs": [
+                {
+                    "affectedEmployees": ["COUNTER"],
+                    "target": "ALLY_AND_SELF",
+                    "levels": {
+                        "1": {
+                            "attack": 10
+                        },
+                        "2": {
+                            "description": "Counter ATK +2%",
+                            "attack": 2,
+                            "stackingMode": "ADDITIVE"
+                        },
+                        "3": {
+                            "description": "Counter ATK +2%",
+                            "attack": 2,
+                            "stackingMode": "ADDITIVE"
+                        },
+                        "4": {
+                            "description": "Counter ATK +4%",
+                            "attack": 4,
+                            "stackingMode": "ADDITIVE"
+                        },
+                        "5": {
+                            "description": "Additional Counter CRIT +20%",
+                            "crit": 20,
+                            "stackingMode": "ADDITIVE"
+                        }
+                    }
+                }
+            ],
+            "damage": [
+                {
+                    "description": "Upon deployment, inflicts AoE damage around her",
+                    "levels": {
+                        "1": {
+                            "instances": [
+                                { 
+                                    "description": "Deployment AoE",
+                                    "attackCoefficient": 17500 
+                                }
+                            ]
+                        }
+                    }
+                }
+            ]
+        }
+    ],
+    "specialSkill": {
+        "name": "Twin Blade",
+        "cooldown": 18,
+        "description": "Brandishes two swords and moves forward, inflicting AoE damage.",
+        "buffs": [
+            {
+                "target": "SELF",
+                "levels": {
+                    "5": {
+                        "description": "DMG RES +20% for 8s immediately after skill",
+                        "damageResistance": 20,
+                        "duration": "TEMPORARY"
+                    }
+                }
+            }
+        ],
+        "damage": [
+            {
+
+                "levels": {
+                    "1": {
+                        "instances": [
+                            {
+                                "description": "Skill String 1",
+                                "attackCoefficient": 3750
+                            },
+                            {
+                                "description": "Skill String 2",
+                                "attackCoefficient": 3750
+                            },
+                            {
+                                "description": "Skill String 3",
+                                "attackCoefficient": 5000
+                            },
+                            {
+                                "description": "Skill String 4",
+                                "attackCoefficient": 5000
+                            },
+                            {
+                                "description": "Skill String 5",
+                                "attackCoefficient": 7500
+                            }
+                        ]                      
+                    },
+                    "2": {
+                        "description": "DMG +5%",
+                        "damage": 5
+                    },
+                    "3": {
+                        "description": "DMG +5%",
+                        "damage": 5
+                    },                    
+                    "4": {
+                        "description": "DMG +15%",
+                        "damage": 15
+                    }
+                }
+            }
+        ]
+    },
+    "ultimateSkill": {
+        "name": "Dragon Slayer",
+        "cooldown": 45,
+        "description": "Leaps backward into the air and crashes onto the ground, inflicting AoE damage. She's Invincible until she lands.",
+        "buffs": [
+            {
+                "target": "SELF",
+                "levels": {
+                    "5": {
+                        "description": "Casts a barrier equal to 25% of Max HP for 15s after skill",
+                        "barrier": 25,
+                        "duration": "TEMPORARY"
+                    }
+                }
+            }
+        ],
+        "damage": [
+            {
+                "levels": {
+                    "1": {
+                        "instances": [
+                            {
+                                "description": "Skill String 1",
+                                "attackCoefficient": 10000
+                            },
+                            {
+                                "description": "Skill String 2",
+                                "attackCoefficient": 5000
+                            },
+                            {
+                                "description": "Skill String 3",
+                                "attackCoefficient": 25000
+                            }
+                        ]                      
+                    },
+                    "2": {
+                        "description": "DMG +5%",
+                        "damage": 5
+                    },
+                    "3": {
+                        "description": "DMG +5%",
+                        "damage": 5
+                    },                    
+                    "4": {
+                        "description": "DMG +15%",
+                        "damage": 15
+                    }
+                }
+            }
+        ]
+    },
+    "leadershipSkill": {
+
+    }
+}

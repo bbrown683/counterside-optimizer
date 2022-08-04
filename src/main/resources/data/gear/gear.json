@@ -1,0 +1,2660 @@
+[{
+    "name": "Antagonist's Hands",
+    "employeeType": "COUNTER",
+    "category": "ANTAGONIST",
+    "imageUri": "images/Gear/Antagonist/Antagonist's Hands.png",
+    "slot": "WEAPON",
+    "tier": 5,
+    "rarities": ["SSR"],
+    "primaryStat": "ATK",
+    "primaryStatGrowthByRarity": {
+        "SSR": {
+            "base": 177,
+            "perLevelGrowth": 13
+        }
+    },
+    "substat1Options": ["ANTI_GROUND_DMG"],
+    "substat1RangeByRarity": {
+        "SSR": {
+            "ANTI_GROUND_DMG": {
+                "minimum": 4.5,
+                "maximum": 9.0
+            }
+        }
+    },
+    "substat2Options": ["HP", "DEF", "ATK", "CRIT", "CRIT_DMG_RES", "CRIT_DMG", "SKILL_HASTE", "CC_RES",
+        "ANTI_AIR_DMG", "ANTI_AIR_DMG_RES", "ANTI_STRIKER_DMG", "ANTI_STRIKER_DMG_RES", "ANTI_DEFENDER_DMG", "ANTI_DEFENDER_DMG_RES",
+        "ANTI_RANGER_DMG", "ANTI_RANGER_DMG_RES", "ANTI_SNIPER_DMG", "ANTI_SNIPER_DMG_RES"
+    ],
+    "substat2RangeByRarity": {
+        "SSR": {
+            "HP": {
+                "minimum": 278,
+                "maximum": 1110
+            },
+            "DEF": {
+                "minimum": 33,
+                "maximum": 65
+            },
+            "ATK": {
+                "minimum": 58,
+                "maximum": 115
+            },
+            "CRIT": {
+                "minimum": 33,
+                "maximum": 65
+            },
+            "CRIT_DMG_RES": {
+                "minimum": 15.0,
+                "maximum": 30.0
+            },
+            "CRIT_DMG": {
+                "minimum": 4.7,
+                "maximum": 14.0
+            },
+            "SKILL_HASTE": {
+                "minimum": 4.5,
+                "maximum": 9.0
+            },
+            "CC_RES": {
+                "minimum": 10.0,
+                "maximum": 20.0
+            },
+            "ANTI_AIR_DMG": {
+                "minimum": 6.0,
+                "maximum": 12.0
+            },
+            "ANTI_AIR_DMG_RES": {
+                "minimum": 6.0,
+                "maximum": 12.0
+            },
+            "ANTI_STRIKER_DMG": {
+                "minimum": 6.0,
+                "maximum": 12.0
+            },
+            "ANTI_STRIKER_DMG_RES": {
+                "minimum": 6.0,
+                "maximum": 12.0
+            },
+            "ANTI_DEFENDER_DMG": {
+                "minimum": 6.0,
+                "maximum": 12.0
+            },
+            "ANTI_DEFENDER_DMG_RES": {
+                "minimum": 6.0,
+                "maximum": 12.0
+            },
+            "ANTI_RANGER_DMG": {
+                "minimum": 6.0,
+                "maximum": 12.0
+            },
+            "ANTI_RANGER_DMG_RES": {
+                "minimum": 6.0,
+                "maximum": 12.0
+            },
+            "ANTI_SNIPER_DMG": {
+                "minimum": 6.0,
+                "maximum": 12.0
+            },
+            "ANTI_SNIPER_DMG_RES": {
+                "minimum": 6.0,
+                "maximum": 12.0
+            }
+        }
+    },
+    "setOptions": ["COOLDOWN"]
+}, {
+    "name": "Antagonist's Case",
+    "employeeType": "COUNTER",
+    "category": "ANTAGONIST",
+    "imageUri": "images/Gear/Antagonist/Antagonist's Case.png",
+    "slot": "ARMOR",
+    "tier": 5,
+    "rarities": ["SSR"],
+    "primaryStat": "HP",
+    "primaryStatGrowthByRarity": {
+        "SSR": {
+            "base": 1709,
+            "perLevelGrowth": 128
+        }
+    },
+    "substat1Options": ["ANTI_GROUND_DMG_RES"],
+    "substat1RangeByRarity": {
+        "SSR": {
+            "ANTI_GROUND_DMG_RES": {
+                "minimum": 4.5,
+                "maximum": 9.0
+            }
+        }
+    },
+    "substat2Options": ["HP", "DEF", "ATK", "CRIT", "CRIT_DMG_RES", "CRIT_DMG", "SKILL_HASTE", "CC_RES",
+        "ANTI_AIR_DMG", "ANTI_AIR_DMG_RES", "ANTI_STRIKER_DMG", "ANTI_STRIKER_DMG_RES", "ANTI_DEFENDER_DMG", "ANTI_DEFENDER_DMG_RES",
+        "ANTI_RANGER_DMG", "ANTI_RANGER_DMG_RES", "ANTI_SNIPER_DMG", "ANTI_SNIPER_DMG_RES"
+    ],
+    "substat2RangeByRarity": {
+        "SSR": {
+            "HP": {
+                "minimum": 278,
+                "maximum": 1110
+            },
+            "DEF": {
+                "minimum": 33,
+                "maximum": 65
+            },
+            "ATK": {
+                "minimum": 58,
+                "maximum": 115
+            },
+            "CRIT": {
+                "minimum": 33,
+                "maximum": 65
+            },
+            "CRIT_DMG_RES": {
+                "minimum": 15.0,
+                "maximum": 30.0
+            },
+            "CRIT_DMG": {
+                "minimum": 4.7,
+                "maximum": 14.0
+            },
+            "SKILL_HASTE": {
+                "minimum": 4.5,
+                "maximum": 9.0
+            },
+            "CC_RES": {
+                "minimum": 10.0,
+                "maximum": 20.0
+            },
+            "ANTI_AIR_DMG": {
+                "minimum": 6.0,
+                "maximum": 12.0
+            },
+            "ANTI_AIR_DMG_RES": {
+                "minimum": 6.0,
+                "maximum": 12.0
+            },
+            "ANTI_STRIKER_DMG": {
+                "minimum": 6.0,
+                "maximum": 12.0
+            },
+            "ANTI_STRIKER_DMG_RES": {
+                "minimum": 6.0,
+                "maximum": 12.0
+            },
+            "ANTI_DEFENDER_DMG": {
+                "minimum": 6.0,
+                "maximum": 12.0
+            },
+            "ANTI_DEFENDER_DMG_RES": {
+                "minimum": 6.0,
+                "maximum": 12.0
+            },
+            "ANTI_RANGER_DMG": {
+                "minimum": 6.0,
+                "maximum": 12.0
+            },
+            "ANTI_RANGER_DMG_RES": {
+                "minimum": 6.0,
+                "maximum": 12.0
+            },
+            "ANTI_SNIPER_DMG": {
+                "minimum": 6.0,
+                "maximum": 12.0
+            },
+            "ANTI_SNIPER_DMG_RES": {
+                "minimum": 6.0,
+                "maximum": 12.0
+            }
+        }
+    },
+    "setOptions": ["COOLDOWN"]
+}, {
+    "name": "Antagonist's Crown",
+    "employeeType": "COUNTER",
+    "category": "ANTAGONIST",
+    "imageUri": "images/Gear/Antagonist/Antagonist's Crown.png",
+    "slot": "ACCESSORY",
+    "tier": 5,
+    "rarities": ["SSR"],
+    "primaryStat": "HIT",
+    "primaryStatGrowthByRarity": {
+        "SSR": {
+            "base": 132,
+            "perLevelGrowth": 10
+        }
+    },
+    "substat1Options": ["ANTI_GROUND_DMG"],
+    "substat1RangeByRarity": {
+        "SSR": {
+            "ANTI_GROUND_DMG": {
+                "minimum": 5.1,
+                "maximum": 10.2
+            }
+        }
+    },
+    "substat2Options": ["HP", "DEF", "ATK", "CRIT", "CRIT_DMG_RES", "CRIT_DMG", "SKILL_HASTE", "CC_RES",
+        "ANTI_AIR_DMG", "ANTI_AIR_DMG_RES", "ANTI_STRIKER_DMG", "ANTI_STRIKER_DMG_RES", "ANTI_DEFENDER_DMG", "ANTI_DEFENDER_DMG_RES",
+        "ANTI_RANGER_DMG", "ANTI_RANGER_DMG_RES", "ANTI_SNIPER_DMG", "ANTI_SNIPER_DMG_RES"
+    ],
+    "substat2RangeByRarity": {
+        "SSR": {
+            "HP": {
+                "minimum": 305,
+                "maximum": 1221
+            },
+            "DEF": {
+                "minimum": 36,
+                "maximum": 71
+            },
+            "ATK": {
+                "minimum": 63,
+                "maximum": 127
+            },
+            "CRIT": {
+                "minimum": 36,
+                "maximum": 71
+            },
+            "CRIT_DMG_RES": {
+                "minimum": 16.5,
+                "maximum": 33.0
+            },
+            "CRIT_DMG": {
+                "minimum": 5.1,
+                "maximum": 15.4
+            },
+            "SKILL_HASTE": {
+                "minimum": 5.0,
+                "maximum": 9.9
+            },
+            "CC_RES": {
+                "minimum": 11.0,
+                "maximum": 22.0
+            },
+            "ANTI_AIR_DMG": {
+                "minimum": 6.6,
+                "maximum": 13.2
+            },
+            "ANTI_AIR_DMG_RES": {
+                "minimum": 6.6,
+                "maximum": 13.2
+            },
+            "ANTI_STRIKER_DMG": {
+                "minimum": 6.6,
+                "maximum": 13.2
+            },
+            "ANTI_STRIKER_DMG_RES": {
+                "minimum": 6.6,
+                "maximum": 13.2
+            },
+            "ANTI_DEFENDER_DMG": {
+                "minimum": 6.6,
+                "maximum": 13.2
+            },
+            "ANTI_DEFENDER_DMG_RES": {
+                "minimum": 6.6,
+                "maximum": 13.2
+            },
+            "ANTI_RANGER_DMG": {
+                "minimum": 6.6,
+                "maximum": 13.2
+            },
+            "ANTI_RANGER_DMG_RES": {
+                "minimum": 6.6,
+                "maximum": 13.2
+            },
+            "ANTI_SNIPER_DMG": {
+                "minimum": 6.6,
+                "maximum": 13.2
+            },
+            "ANTI_SNIPER_DMG_RES": {
+                "minimum": 6.6,
+                "maximum": 13.2
+            }
+        }
+    },
+    "setOptions": ["COOLDOWN"]
+}, {
+    "name": "Antagonist's Movement",
+    "employeeType": "COUNTER",
+    "category": "ANTAGONIST",
+    "imageUri": "images/Gear/Antagonist/Antagonist's Movement.png",
+    "slot": "ACCESSORY",
+    "tier": 5,
+    "rarities": ["SSR"],
+    "primaryStat": "EVA",
+    "primaryStatGrowthByRarity": {
+        "SSR": {
+            "base": 132,
+            "perLevelGrowth": 10
+        }
+    },
+    "substat1Options": ["ANTI_GROUND_DMG"],
+    "substat1RangeByRarity": {
+        "SSR": {
+            "ANTI_GROUND_DMG": {
+                "minimum": 5.1,
+                "maximum": 10.2
+            }
+        }
+    },
+    "substat2Options": ["HP", "DEF", "ATK", "CRIT", "CRIT_DMG_RES", "CRIT_DMG", "SKILL_HASTE", "CC_RES",
+        "ANTI_AIR_DMG", "ANTI_AIR_DMG_RES", "ANTI_STRIKER_DMG", "ANTI_STRIKER_DMG_RES", "ANTI_DEFENDER_DMG", "ANTI_DEFENDER_DMG_RES",
+        "ANTI_RANGER_DMG", "ANTI_RANGER_DMG_RES", "ANTI_SNIPER_DMG", "ANTI_SNIPER_DMG_RES"
+    ],
+    "substat2RangeByRarity": {
+        "SSR": {
+            "HP": {
+                "minimum": 305,
+                "maximum": 1221
+            },
+            "DEF": {
+                "minimum": 36,
+                "maximum": 71
+            },
+            "ATK": {
+                "minimum": 63,
+                "maximum": 127
+            },
+            "CRIT": {
+                "minimum": 36,
+                "maximum": 71
+            },
+            "CRIT_DMG_RES": {
+                "minimum": 16.5,
+                "maximum": 33.0
+            },
+            "CRIT_DMG": {
+                "minimum": 5.1,
+                "maximum": 15.4
+            },
+            "SKILL_HASTE": {
+                "minimum": 5.0,
+                "maximum": 9.9
+            },
+            "CC_RES": {
+                "minimum": 11.0,
+                "maximum": 22.0
+            },
+            "ANTI_AIR_DMG": {
+                "minimum": 6.6,
+                "maximum": 13.2
+            },
+            "ANTI_AIR_DMG_RES": {
+                "minimum": 6.6,
+                "maximum": 13.2
+            },
+            "ANTI_STRIKER_DMG": {
+                "minimum": 6.6,
+                "maximum": 13.2
+            },
+            "ANTI_STRIKER_DMG_RES": {
+                "minimum": 6.6,
+                "maximum": 13.2
+            },
+            "ANTI_DEFENDER_DMG": {
+                "minimum": 6.6,
+                "maximum": 13.2
+            },
+            "ANTI_DEFENDER_DMG_RES": {
+                "minimum": 6.6,
+                "maximum": 13.2
+            },
+            "ANTI_RANGER_DMG": {
+                "minimum": 6.6,
+                "maximum": 13.2
+            },
+            "ANTI_RANGER_DMG_RES": {
+                "minimum": 6.6,
+                "maximum": 13.2
+            },
+            "ANTI_SNIPER_DMG": {
+                "minimum": 6.6,
+                "maximum": 13.2
+            },
+            "ANTI_SNIPER_DMG_RES": {
+                "minimum": 6.6,
+                "maximum": 13.2
+            }
+        }
+    },
+    "setOptions": ["COOLDOWN"]
+}, {
+    "name": "Maze Recoilless Rifle",
+    "employeeType": "COUNTER",
+    "category": "MAZE",
+    "imageUri": "images/Gear/Maze/Maze Hands.png",
+    "slot": "WEAPON",
+    "tier": 6,
+    "rarities": ["SSR"],
+    "primaryStat": "ATK",
+    "primaryStatGrowthByRarity": {
+        "SSR": {
+            "base": 206,
+            "perLevelGrowth": 15
+        }
+    },
+    "substat1Options": ["ANTI_GROUND_DMG"],
+    "substat1RangeByRarity": {
+        "SSR": {
+            "ANTI_GROUND_DMG": {
+                "minimum": 7.0,
+                "maximum": 14.0
+            }
+        }
+    },
+    "substat2Options": ["HP", "DEF", "ATK", "CRIT", "CRIT_DMG_RES", "CRIT_DMG", "SKILL_HASTE", "CC_RES",
+        "ANTI_AIR_DMG", "ANTI_AIR_DMG_RES", "ANTI_STRIKER_DMG", "ANTI_STRIKER_DMG_RES", "ANTI_DEFENDER_DMG", "ANTI_DEFENDER_DMG_RES",
+        "ANTI_RANGER_DMG", "ANTI_RANGER_DMG_RES", "ANTI_SNIPER_DMG", "ANTI_SNIPER_DMG_RES"
+    ],
+    "substat2RangeByRarity": {
+        "SSR": {
+            "HP": {
+                "minimum": 324,
+                "maximum": 1925
+            },
+            "DEF": {
+                "minimum": 37,
+                "maximum": 73
+            },
+            "ATK": {
+                "minimum": 67,
+                "maximum": 134
+            },
+            "CRIT": {
+                "minimum": 37,
+                "maximum": 73
+            },
+            "CRIT_DMG_RES": {
+                "minimum": 17.5,
+                "maximum": 35.0
+            },
+            "CRIT_DMG": {
+                "minimum": 5.0,
+                "maximum": 15.0
+            },
+            "SKILL_HASTE": {
+                "minimum": 5.0,
+                "maximum": 10.0
+            },
+            "CC_RES": {
+                "minimum": 10.0,
+                "maximum": 20.0
+            },
+            "ANTI_AIR_DMG": {
+                "minimum": 7.0,
+                "maximum": 14.0
+            },
+            "ANTI_AIR_DMG_RES": {
+                "minimum": 7.0,
+                "maximum": 14.0
+            },
+            "ANTI_STRIKER_DMG": {
+                "minimum": 7.0,
+                "maximum": 14.0
+            },
+            "ANTI_STRIKER_DMG_RES": {
+                "minimum": 7.0,
+                "maximum": 14.0
+            },
+            "ANTI_DEFENDER_DMG": {
+                "minimum": 7.0,
+                "maximum": 14.0
+            },
+            "ANTI_DEFENDER_DMG_RES": {
+                "minimum": 7.0,
+                "maximum": 14.0
+            },
+            "ANTI_RANGER_DMG": {
+                "minimum": 7.0,
+                "maximum": 14.0
+            },
+            "ANTI_RANGER_DMG_RES": {
+                "minimum": 7.0,
+                "maximum": 14.0
+            },
+            "ANTI_SNIPER_DMG": {
+                "minimum": 7.0,
+                "maximum": 14.0
+            },
+            "ANTI_SNIPER_DMG_RES": {
+                "minimum": 7.0,
+                "maximum": 14.0
+            }
+        }
+    },
+    "setOptions": ["HP", "DEF", "EVA", "ATK", "CRIT", "HIT", "ANTI_STRIKER", "ANTI_DEFENDER", "ANTI_RANGER", "ANTI_SNIPER", "ANTI_SUPPORTER",
+        "ANTI_TOWER", "ANTI_SIEGE", "CRIT_DMG", "COOLDOWN", "ASPD"
+    ]
+}, {
+    "name": "Maze Recoilless Rifle",
+    "employeeType": "SOLDIER",
+    "category": "MAZE",
+    "imageUri": "images/Gear/Maze/Maze Recoilless Rifle.png",
+    "slot": "WEAPON",
+    "tier": 6,
+    "rarities": ["SSR"],
+    "primaryStat": "ATK",
+    "primaryStatGrowthByRarity": {
+        "SSR": {
+            "base": 206,
+            "perLevelGrowth": 15
+        }
+    },
+    "substat1Options": ["ANTI_GROUND_DMG"],
+    "substat1RangeByRarity": {
+        "SSR": {
+            "ANTI_GROUND_DMG": {
+                "minimum": 7.0,
+                "maximum": 14.0
+            }
+        }
+    },
+    "substat2Options": ["HP", "DEF", "ATK", "CRIT", "CRIT_DMG_RES", "CRIT_DMG", "SKILL_HASTE", "CC_RES",
+        "ANTI_AIR_DMG", "ANTI_AIR_DMG_RES", "ANTI_STRIKER_DMG", "ANTI_STRIKER_DMG_RES", "ANTI_DEFENDER_DMG", "ANTI_DEFENDER_DMG_RES",
+        "ANTI_RANGER_DMG", "ANTI_RANGER_DMG_RES", "ANTI_SNIPER_DMG", "ANTI_SNIPER_DMG_RES"
+    ],
+    "substat2RangeByRarity": {
+        "SSR": {
+            "HP": {
+                "minimum": 324,
+                "maximum": 1925
+            },
+            "DEF": {
+                "minimum": 37,
+                "maximum": 73
+            },
+            "ATK": {
+                "minimum": 67,
+                "maximum": 134
+            },
+            "CRIT": {
+                "minimum": 37,
+                "maximum": 73
+            },
+            "CRIT_DMG_RES": {
+                "minimum": 17.5,
+                "maximum": 35.0
+            },
+            "CRIT_DMG": {
+                "minimum": 5.0,
+                "maximum": 15.0
+            },
+            "SKILL_HASTE": {
+                "minimum": 5.0,
+                "maximum": 10.0
+            },
+            "CC_RES": {
+                "minimum": 10.0,
+                "maximum": 20.0
+            },
+            "ANTI_AIR_DMG": {
+                "minimum": 7.0,
+                "maximum": 14.0
+            },
+            "ANTI_AIR_DMG_RES": {
+                "minimum": 7.0,
+                "maximum": 14.0
+            },
+            "ANTI_STRIKER_DMG": {
+                "minimum": 7.0,
+                "maximum": 14.0
+            },
+            "ANTI_STRIKER_DMG_RES": {
+                "minimum": 7.0,
+                "maximum": 14.0
+            },
+            "ANTI_DEFENDER_DMG": {
+                "minimum": 7.0,
+                "maximum": 14.0
+            },
+            "ANTI_DEFENDER_DMG_RES": {
+                "minimum": 7.0,
+                "maximum": 14.0
+            },
+            "ANTI_RANGER_DMG": {
+                "minimum": 7.0,
+                "maximum": 14.0
+            },
+            "ANTI_RANGER_DMG_RES": {
+                "minimum": 7.0,
+                "maximum": 14.0
+            },
+            "ANTI_SNIPER_DMG": {
+                "minimum": 7.0,
+                "maximum": 14.0
+            },
+            "ANTI_SNIPER_DMG_RES": {
+                "minimum": 7.0,
+                "maximum": 14.0
+            }
+        }
+    },
+    "setOptions": ["HP", "DEF", "EVA", "ATK", "CRIT", "HIT", "ANTI_STRIKER", "ANTI_DEFENDER", "ANTI_RANGER", "ANTI_SNIPER", "ANTI_SUPPORTER",
+        "ANTI_TOWER", "ANTI_SIEGE", "CRIT_DMG", "COOLDOWN", "ASPD"
+    ]
+}, {
+    "name": "Maze Guided Munition",
+    "employeeType": "MECH",
+    "category": "MAZE",
+    "imageUri": "images/Gear/Maze/Maze Guided Munition.png",
+    "slot": "WEAPON",
+    "tier": 6,
+    "rarities": ["SSR"],
+    "primaryStat": "ATK",
+    "primaryStatGrowthByRarity": {
+        "SSR": {
+            "base": 206,
+            "perLevelGrowth": 15
+        }
+    },
+    "substat1Options": ["ANTI_GROUND_DMG"],
+    "substat1RangeByRarity": {
+        "SSR": {
+            "ANTI_GROUND_DMG": {
+                "minimum": 7.0,
+                "maximum": 14.0
+            }
+        }
+    },
+    "substat2Options": ["HP", "DEF", "ATK", "CRIT", "CRIT_DMG_RES", "CRIT_DMG", "SKILL_HASTE", "CC_RES",
+        "ANTI_AIR_DMG", "ANTI_AIR_DMG_RES", "ANTI_STRIKER_DMG", "ANTI_STRIKER_DMG_RES", "ANTI_DEFENDER_DMG", "ANTI_DEFENDER_DMG_RES",
+        "ANTI_RANGER_DMG", "ANTI_RANGER_DMG_RES", "ANTI_SNIPER_DMG", "ANTI_SNIPER_DMG_RES"
+    ],
+    "substat2RangeByRarity": {
+        "SSR": {
+            "HP": {
+                "minimum": 324,
+                "maximum": 1925
+            },
+            "DEF": {
+                "minimum": 37,
+                "maximum": 73
+            },
+            "ATK": {
+                "minimum": 67,
+                "maximum": 134
+            },
+            "CRIT": {
+                "minimum": 37,
+                "maximum": 73
+            },
+            "CRIT_DMG_RES": {
+                "minimum": 17.5,
+                "maximum": 35.0
+            },
+            "CRIT_DMG": {
+                "minimum": 5.0,
+                "maximum": 15.0
+            },
+            "SKILL_HASTE": {
+                "minimum": 5.0,
+                "maximum": 10.0
+            },
+            "CC_RES": {
+                "minimum": 10.0,
+                "maximum": 20.0
+            },
+            "ANTI_AIR_DMG": {
+                "minimum": 7.0,
+                "maximum": 14.0
+            },
+            "ANTI_AIR_DMG_RES": {
+                "minimum": 7.0,
+                "maximum": 14.0
+            },
+            "ANTI_STRIKER_DMG": {
+                "minimum": 7.0,
+                "maximum": 14.0
+            },
+            "ANTI_STRIKER_DMG_RES": {
+                "minimum": 7.0,
+                "maximum": 14.0
+            },
+            "ANTI_DEFENDER_DMG": {
+                "minimum": 7.0,
+                "maximum": 14.0
+            },
+            "ANTI_DEFENDER_DMG_RES": {
+                "minimum": 7.0,
+                "maximum": 14.0
+            },
+            "ANTI_RANGER_DMG": {
+                "minimum": 7.0,
+                "maximum": 14.0
+            },
+            "ANTI_RANGER_DMG_RES": {
+                "minimum": 7.0,
+                "maximum": 14.0
+            },
+            "ANTI_SNIPER_DMG": {
+                "minimum": 7.0,
+                "maximum": 14.0
+            },
+            "ANTI_SNIPER_DMG_RES": {
+                "minimum": 7.0,
+                "maximum": 14.0
+            }
+        }
+    },
+    "setOptions": ["HP", "DEF", "EVA", "ATK", "CRIT", "HIT", "ANTI_STRIKER", "ANTI_DEFENDER", "ANTI_RANGER", "ANTI_SNIPER", "ANTI_SUPPORTER",
+        "ANTI_TOWER", "ANTI_SIEGE", "CRIT_DMG", "COOLDOWN", "ASPD"
+    ]
+}, {
+    "name": "Maze Case",
+    "employeeType": "COUNTER",
+    "category": "MAZE",
+    "imageUri": "images/Gear/Maze/Maze Case.png",
+    "slot": "ARMOR",
+    "tier": 6,
+    "rarities": ["SSR"],
+    "primaryStat": "HP",
+    "primaryStatGrowthByRarity": {
+        "SSR": {
+            "base": 1994,
+            "perLevelGrowth": 150
+        }
+    },
+    "substat1Options": ["ANTI_GROUND_DMG_RES"],
+    "substat1RangeByRarity": {
+        "SSR": {
+            "ANTI_GROUND_DMG_RES": {
+                "minimum": 7.0,
+                "maximum": 14.0
+            }
+        }
+    },
+    "substat2Options": ["HP", "DEF", "ATK", "CRIT", "CRIT_DMG_RES", "CRIT_DMG", "SKILL_HASTE", "CC_RES",
+        "ANTI_AIR_DMG", "ANTI_AIR_DMG_RES", "ANTI_STRIKER_DMG", "ANTI_STRIKER_DMG_RES", "ANTI_DEFENDER_DMG", "ANTI_DEFENDER_DMG_RES",
+        "ANTI_RANGER_DMG", "ANTI_RANGER_DMG_RES", "ANTI_SNIPER_DMG", "ANTI_SNIPER_DMG_RES"
+    ],
+    "substat2RangeByRarity": {
+        "SSR": {
+            "HP": {
+                "minimum": 324,
+                "maximum": 1295
+            },
+            "DEF": {
+                "minimum": 37,
+                "maximum": 73
+            },
+            "ATK": {
+                "minimum": 67,
+                "maximum": 134
+            },
+            "CRIT": {
+                "minimum": 37,
+                "maximum": 73
+            },
+            "CRIT_DMG_RES": {
+                "minimum": 17.5,
+                "maximum": 35.0
+            },
+            "CRIT_DMG": {
+                "minimum": 5.0,
+                "maximum": 15.0
+            },
+            "SKILL_HASTE": {
+                "minimum": 5.0,
+                "maximum": 10.0
+            },
+            "CC_RES": {
+                "minimum": 10.0,
+                "maximum": 20.0
+            },
+            "ANTI_AIR_DMG": {
+                "minimum": 7.0,
+                "maximum": 14.0
+            },
+            "ANTI_AIR_DMG_RES": {
+                "minimum": 7.0,
+                "maximum": 14.0
+            },
+            "ANTI_STRIKER_DMG": {
+                "minimum": 7.0,
+                "maximum": 14.0
+            },
+            "ANTI_STRIKER_DMG_RES": {
+                "minimum": 7.0,
+                "maximum": 14.0
+            },
+            "ANTI_DEFENDER_DMG": {
+                "minimum": 7.0,
+                "maximum": 14.0
+            },
+            "ANTI_DEFENDER_DMG_RES": {
+                "minimum": 7.0,
+                "maximum": 14.0
+            },
+            "ANTI_RANGER_DMG": {
+                "minimum": 7.0,
+                "maximum": 14.0
+            },
+            "ANTI_RANGER_DMG_RES": {
+                "minimum": 7.0,
+                "maximum": 14.0
+            },
+            "ANTI_SNIPER_DMG": {
+                "minimum": 7.0,
+                "maximum": 14.0
+            },
+            "ANTI_SNIPER_DMG_RES": {
+                "minimum": 7.0,
+                "maximum": 14.0
+            }
+        }
+    },
+    "setOptions": ["HP", "DEF", "EVA", "ATK", "CRIT", "HIT", "ANTI_STRIKER", "ANTI_DEFENDER", "ANTI_RANGER", "ANTI_SNIPER", "ANTI_SUPPORTER",
+        "ANTI_TOWER", "ANTI_SIEGE", "CRIT_DMG", "COOLDOWN", "ASPD"
+    ]
+}, {
+    "name": "Maze Complex Suit",
+    "employeeType": "SOLDIER",
+    "category": "MAZE",
+    "imageUri": "images/Gear/Maze/Maze Complex Suit.png",
+    "slot": "ARMOR",
+    "tier": 6,
+    "rarities": ["SSR"],
+    "primaryStat": "HP",
+    "primaryStatGrowthByRarity": {
+        "SSR": {
+            "base": 1994,
+            "perLevelGrowth": 150
+        }
+    },
+    "substat1Options": ["ANTI_GROUND_DMG_RES"],
+    "substat1RangeByRarity": {
+        "SSR": {
+            "ANTI_GROUND_DMG_RES": {
+                "minimum": 7.0,
+                "maximum": 14.0
+            }
+        }
+    },
+    "substat2Options": ["HP", "DEF", "ATK", "CRIT", "CRIT_DMG_RES", "CRIT_DMG", "SKILL_HASTE", "CC_RES",
+        "ANTI_AIR_DMG", "ANTI_AIR_DMG_RES", "ANTI_STRIKER_DMG", "ANTI_STRIKER_DMG_RES", "ANTI_DEFENDER_DMG", "ANTI_DEFENDER_DMG_RES",
+        "ANTI_RANGER_DMG", "ANTI_RANGER_DMG_RES", "ANTI_SNIPER_DMG", "ANTI_SNIPER_DMG_RES"
+    ],
+    "substat2RangeByRarity": {
+        "SSR": {
+            "HP": {
+                "minimum": 324,
+                "maximum": 1295
+            },
+            "DEF": {
+                "minimum": 37,
+                "maximum": 73
+            },
+            "ATK": {
+                "minimum": 67,
+                "maximum": 134
+            },
+            "CRIT": {
+                "minimum": 37,
+                "maximum": 73
+            },
+            "CRIT_DMG_RES": {
+                "minimum": 17.5,
+                "maximum": 35.0
+            },
+            "CRIT_DMG": {
+                "minimum": 5.0,
+                "maximum": 15.0
+            },
+            "SKILL_HASTE": {
+                "minimum": 5.0,
+                "maximum": 10.0
+            },
+            "CC_RES": {
+                "minimum": 10.0,
+                "maximum": 20.0
+            },
+            "ANTI_AIR_DMG": {
+                "minimum": 7.0,
+                "maximum": 14.0
+            },
+            "ANTI_AIR_DMG_RES": {
+                "minimum": 7.0,
+                "maximum": 14.0
+            },
+            "ANTI_STRIKER_DMG": {
+                "minimum": 7.0,
+                "maximum": 14.0
+            },
+            "ANTI_STRIKER_DMG_RES": {
+                "minimum": 7.0,
+                "maximum": 14.0
+            },
+            "ANTI_DEFENDER_DMG": {
+                "minimum": 7.0,
+                "maximum": 14.0
+            },
+            "ANTI_DEFENDER_DMG_RES": {
+                "minimum": 7.0,
+                "maximum": 14.0
+            },
+            "ANTI_RANGER_DMG": {
+                "minimum": 7.0,
+                "maximum": 14.0
+            },
+            "ANTI_RANGER_DMG_RES": {
+                "minimum": 7.0,
+                "maximum": 14.0
+            },
+            "ANTI_SNIPER_DMG": {
+                "minimum": 7.0,
+                "maximum": 14.0
+            },
+            "ANTI_SNIPER_DMG_RES": {
+                "minimum": 7.0,
+                "maximum": 14.0
+            }
+        }
+    },
+    "setOptions": ["HP", "DEF", "EVA", "ATK", "CRIT", "HIT", "ANTI_STRIKER", "ANTI_DEFENDER", "ANTI_RANGER", "ANTI_SNIPER", "ANTI_SUPPORTER",
+        "ANTI_TOWER", "ANTI_SIEGE", "CRIT_DMG", "COOLDOWN", "ASPD"
+    ]
+}, {
+    "name": "Maze Reactive Armor",
+    "employeeType": "MECH",
+    "category": "MAZE",
+    "imageUri": "images/Gear/Maze/Maze Reactive Armor.png",
+    "slot": "ARMOR",
+    "tier": 6,
+    "rarities": ["SSR"],
+    "primaryStat": "HP",
+    "primaryStatGrowthByRarity": {
+        "SSR": {
+            "base": 1994,
+            "perLevelGrowth": 150
+        }
+    },
+    "substat1Options": ["ANTI_GROUND_DMG_RES"],
+    "substat1RangeByRarity": {
+        "SSR": {
+            "ANTI_GROUND_DMG_RES": {
+                "minimum": 7.0,
+                "maximum": 14.0
+            }
+        }
+    },
+    "substat2Options": ["HP", "DEF", "ATK", "CRIT", "CRIT_DMG_RES", "CRIT_DMG", "SKILL_HASTE", "CC_RES",
+        "ANTI_AIR_DMG", "ANTI_AIR_DMG_RES", "ANTI_STRIKER_DMG", "ANTI_STRIKER_DMG_RES", "ANTI_DEFENDER_DMG", "ANTI_DEFENDER_DMG_RES",
+        "ANTI_RANGER_DMG", "ANTI_RANGER_DMG_RES", "ANTI_SNIPER_DMG", "ANTI_SNIPER_DMG_RES"
+    ],
+    "substat2RangeByRarity": {
+        "SSR": {
+            "HP": {
+                "minimum": 324,
+                "maximum": 1295
+            },
+            "DEF": {
+                "minimum": 37,
+                "maximum": 73
+            },
+            "ATK": {
+                "minimum": 67,
+                "maximum": 134
+            },
+            "CRIT": {
+                "minimum": 37,
+                "maximum": 73
+            },
+            "CRIT_DMG_RES": {
+                "minimum": 17.5,
+                "maximum": 35.0
+            },
+            "CRIT_DMG": {
+                "minimum": 5.0,
+                "maximum": 15.0
+            },
+            "SKILL_HASTE": {
+                "minimum": 5.0,
+                "maximum": 10.0
+            },
+            "CC_RES": {
+                "minimum": 10.0,
+                "maximum": 20.0
+            },
+            "ANTI_AIR_DMG": {
+                "minimum": 7.0,
+                "maximum": 14.0
+            },
+            "ANTI_AIR_DMG_RES": {
+                "minimum": 7.0,
+                "maximum": 14.0
+            },
+            "ANTI_STRIKER_DMG": {
+                "minimum": 7.0,
+                "maximum": 14.0
+            },
+            "ANTI_STRIKER_DMG_RES": {
+                "minimum": 7.0,
+                "maximum": 14.0
+            },
+            "ANTI_DEFENDER_DMG": {
+                "minimum": 7.0,
+                "maximum": 14.0
+            },
+            "ANTI_DEFENDER_DMG_RES": {
+                "minimum": 7.0,
+                "maximum": 14.0
+            },
+            "ANTI_RANGER_DMG": {
+                "minimum": 7.0,
+                "maximum": 14.0
+            },
+            "ANTI_RANGER_DMG_RES": {
+                "minimum": 7.0,
+                "maximum": 14.0
+            },
+            "ANTI_SNIPER_DMG": {
+                "minimum": 7.0,
+                "maximum": 14.0
+            },
+            "ANTI_SNIPER_DMG_RES": {
+                "minimum": 7.0,
+                "maximum": 14.0
+            }
+        }
+    },
+    "setOptions": ["HP", "DEF", "EVA", "ATK", "CRIT", "HIT", "ANTI_STRIKER", "ANTI_DEFENDER", "ANTI_RANGER", "ANTI_SNIPER", "ANTI_SUPPORTER",
+        "ANTI_TOWER", "ANTI_SIEGE", "CRIT_DMG", "COOLDOWN", "ASPD"
+    ]
+}, {
+    "name": "Maze Crown",
+    "employeeType": "COUNTER",
+    "category": "MAZE",
+    "imageUri": "images/Gear/Maze/Maze Crown.png",
+    "slot": "ACCESSORY",
+    "tier": 6,
+    "rarities": ["SSR"],
+    "primaryStat": "HIT",
+    "primaryStatGrowthByRarity": {
+        "SSR": {
+            "base": 149,
+            "perLevelGrowth": 11
+        }
+    },
+    "substat1Options": ["ANTI_GROUND_DMG"],
+    "substat1RangeByRarity": {
+        "SSR": {
+            "ANTI_GROUND_DMG": {
+                "minimum": 7.7,
+                "maximum": 15.4
+            }
+        }
+    },
+    "substat2Options": ["HP", "DEF", "ATK", "CRIT", "CRIT_DMG_RES", "CRIT_DMG", "SKILL_HASTE", "CC_RES",
+        "ANTI_AIR_DMG", "ANTI_AIR_DMG_RES", "ANTI_STRIKER_DMG", "ANTI_STRIKER_DMG_RES", "ANTI_DEFENDER_DMG", "ANTI_DEFENDER_DMG_RES",
+        "ANTI_RANGER_DMG", "ANTI_RANGER_DMG_RES", "ANTI_SNIPER_DMG", "ANTI_SNIPER_DMG_RES"
+    ],
+    "substat2RangeByRarity": {
+        "SSR": {
+            "HP": {
+                "minimum": 356,
+                "maximum": 1425
+            },
+            "DEF": {
+                "minimum": 40,
+                "maximum": 80
+            },
+            "ATK": {
+                "minimum": 74,
+                "maximum": 147
+            },
+            "CRIT": {
+                "minimum": 40,
+                "maximum": 80
+            },
+            "CRIT_DMG_RES": {
+                "minimum": 19.3,
+                "maximum": 38.5
+            },
+            "CRIT_DMG": {
+                "minimum": 5.5,
+                "maximum": 16.5
+            },
+            "SKILL_HASTE": {
+                "minimum": 5.5,
+                "maximum": 11.0
+            },
+            "CC_RES": {
+                "minimum": 11.0,
+                "maximum": 22.0
+            },
+            "ANTI_AIR_DMG": {
+                "minimum": 7.7,
+                "maximum": 15.4
+            },
+            "ANTI_AIR_DMG_RES": {
+                "minimum": 7.7,
+                "maximum": 15.4
+            },
+            "ANTI_STRIKER_DMG": {
+                "minimum": 7.7,
+                "maximum": 15.4
+            },
+            "ANTI_STRIKER_DMG_RES": {
+                "minimum": 7.7,
+                "maximum": 15.4
+            },
+            "ANTI_DEFENDER_DMG": {
+                "minimum": 7.7,
+                "maximum": 15.4
+            },
+            "ANTI_DEFENDER_DMG_RES": {
+                "minimum": 7.7,
+                "maximum": 15.4
+            },
+            "ANTI_RANGER_DMG": {
+                "minimum": 7.7,
+                "maximum": 15.4
+            },
+            "ANTI_RANGER_DMG_RES": {
+                "minimum": 7.7,
+                "maximum": 15.4
+            },
+            "ANTI_SNIPER_DMG": {
+                "minimum": 7.7,
+                "maximum": 15.4
+            },
+            "ANTI_SNIPER_DMG_RES": {
+                "minimum": 7.7,
+                "maximum": 15.4
+            }
+        }
+    },
+    "setOptions": ["HP", "DEF", "EVA", "ATK", "CRIT", "HIT", "ANTI_STRIKER", "ANTI_DEFENDER", "ANTI_RANGER", "ANTI_SNIPER", "ANTI_SUPPORTER",
+        "ANTI_TOWER", "ANTI_SIEGE", "CRIT_DMG", "COOLDOWN", "ASPD"
+    ]
+}, {
+    "name": "Maze Laser Scope",
+    "employeeType": "SOLDIER",
+    "category": "MAZE",
+    "imageUri": "images/Gear/Maze/Maze Laser Scope.png",
+    "slot": "ACCESSORY",
+    "tier": 6,
+    "rarities": ["SSR"],
+    "primaryStat": "HIT",
+    "primaryStatGrowthByRarity": {
+        "SSR": {
+            "base": 112,
+            "perLevelGrowth": 8
+        }
+    },
+    "substat1Options": ["ANTI_GROUND_DMG"],
+    "substat1RangeByRarity": {
+        "SSR": {
+            "ANTI_GROUND_DMG": {
+                "minimum": 7.7,
+                "maximum": 15.4
+            }
+        }
+    },
+    "substat2Options": ["HP", "DEF", "ATK", "CRIT", "CRIT_DMG_RES", "CRIT_DMG", "SKILL_HASTE", "CC_RES",
+        "ANTI_AIR_DMG", "ANTI_AIR_DMG_RES", "ANTI_STRIKER_DMG", "ANTI_STRIKER_DMG_RES", "ANTI_DEFENDER_DMG", "ANTI_DEFENDER_DMG_RES",
+        "ANTI_RANGER_DMG", "ANTI_RANGER_DMG_RES", "ANTI_SNIPER_DMG", "ANTI_SNIPER_DMG_RES"
+    ],
+    "substat2RangeByRarity": {
+        "SSR": {
+            "HP": {
+                "minimum": 356,
+                "maximum": 1425
+            },
+            "DEF": {
+                "minimum": 40,
+                "maximum": 80
+            },
+            "ATK": {
+                "minimum": 74,
+                "maximum": 147
+            },
+            "CRIT": {
+                "minimum": 40,
+                "maximum": 80
+            },
+            "CRIT_DMG_RES": {
+                "minimum": 19.3,
+                "maximum": 38.5
+            },
+            "CRIT_DMG": {
+                "minimum": 5.5,
+                "maximum": 16.5
+            },
+            "SKILL_HASTE": {
+                "minimum": 5.5,
+                "maximum": 11.0
+            },
+            "CC_RES": {
+                "minimum": 11.0,
+                "maximum": 22.0
+            },
+            "ANTI_AIR_DMG": {
+                "minimum": 7.7,
+                "maximum": 15.4
+            },
+            "ANTI_AIR_DMG_RES": {
+                "minimum": 7.7,
+                "maximum": 15.4
+            },
+            "ANTI_STRIKER_DMG": {
+                "minimum": 7.7,
+                "maximum": 15.4
+            },
+            "ANTI_STRIKER_DMG_RES": {
+                "minimum": 7.7,
+                "maximum": 15.4
+            },
+            "ANTI_DEFENDER_DMG": {
+                "minimum": 7.7,
+                "maximum": 15.4
+            },
+            "ANTI_DEFENDER_DMG_RES": {
+                "minimum": 7.7,
+                "maximum": 15.4
+            },
+            "ANTI_RANGER_DMG": {
+                "minimum": 7.7,
+                "maximum": 15.4
+            },
+            "ANTI_RANGER_DMG_RES": {
+                "minimum": 7.7,
+                "maximum": 15.4
+            },
+            "ANTI_SNIPER_DMG": {
+                "minimum": 7.7,
+                "maximum": 15.4
+            },
+            "ANTI_SNIPER_DMG_RES": {
+                "minimum": 7.7,
+                "maximum": 15.4
+            }
+        }
+    },
+    "setOptions": ["HP", "DEF", "EVA", "ATK", "CRIT", "HIT", "ANTI_STRIKER", "ANTI_DEFENDER", "ANTI_RANGER", "ANTI_SNIPER", "ANTI_SUPPORTER",
+        "ANTI_TOWER", "ANTI_SIEGE", "CRIT_DMG", "COOLDOWN", "ASPD"
+    ]
+}, {
+    "name": "Maze Learning Sight",
+    "employeeType": "MECH",
+    "category": "MAZE",
+    "imageUri": "images/Gear/Maze/Maze Learning Sight.png",
+    "slot": "ACCESSORY",
+    "tier": 6,
+    "rarities": ["SSR"],
+    "primaryStat": "HIT",
+    "primaryStatGrowthByRarity": {
+        "SSR": {
+            "base": 164,
+            "perLevelGrowth": 12
+        }
+    },
+    "substat1Options": ["ANTI_GROUND_DMG"],
+    "substat1RangeByRarity": {
+        "SSR": {
+            "ANTI_GROUND_DMG": {
+                "minimum": 7.7,
+                "maximum": 15.4
+            }
+        }
+    },
+    "substat2Options": ["HP", "DEF", "ATK", "CRIT", "CRIT_DMG_RES", "CRIT_DMG", "SKILL_HASTE", "CC_RES",
+        "ANTI_AIR_DMG", "ANTI_AIR_DMG_RES", "ANTI_STRIKER_DMG", "ANTI_STRIKER_DMG_RES", "ANTI_DEFENDER_DMG", "ANTI_DEFENDER_DMG_RES",
+        "ANTI_RANGER_DMG", "ANTI_RANGER_DMG_RES", "ANTI_SNIPER_DMG", "ANTI_SNIPER_DMG_RES"
+    ],
+    "substat2RangeByRarity": {
+        "SSR": {
+            "HP": {
+                "minimum": 356,
+                "maximum": 1425
+            },
+            "DEF": {
+                "minimum": 40,
+                "maximum": 80
+            },
+            "ATK": {
+                "minimum": 74,
+                "maximum": 147
+            },
+            "CRIT": {
+                "minimum": 40,
+                "maximum": 80
+            },
+            "CRIT_DMG_RES": {
+                "minimum": 19.3,
+                "maximum": 38.5
+            },
+            "CRIT_DMG": {
+                "minimum": 5.5,
+                "maximum": 16.5
+            },
+            "SKILL_HASTE": {
+                "minimum": 5.5,
+                "maximum": 11.0
+            },
+            "CC_RES": {
+                "minimum": 11.0,
+                "maximum": 22.0
+            },
+            "ANTI_AIR_DMG": {
+                "minimum": 7.7,
+                "maximum": 15.4
+            },
+            "ANTI_AIR_DMG_RES": {
+                "minimum": 7.7,
+                "maximum": 15.4
+            },
+            "ANTI_STRIKER_DMG": {
+                "minimum": 7.7,
+                "maximum": 15.4
+            },
+            "ANTI_STRIKER_DMG_RES": {
+                "minimum": 7.7,
+                "maximum": 15.4
+            },
+            "ANTI_DEFENDER_DMG": {
+                "minimum": 7.7,
+                "maximum": 15.4
+            },
+            "ANTI_DEFENDER_DMG_RES": {
+                "minimum": 7.7,
+                "maximum": 15.4
+            },
+            "ANTI_RANGER_DMG": {
+                "minimum": 7.7,
+                "maximum": 15.4
+            },
+            "ANTI_RANGER_DMG_RES": {
+                "minimum": 7.7,
+                "maximum": 15.4
+            },
+            "ANTI_SNIPER_DMG": {
+                "minimum": 7.7,
+                "maximum": 15.4
+            },
+            "ANTI_SNIPER_DMG_RES": {
+                "minimum": 7.7,
+                "maximum": 15.4
+            }
+        }
+    },
+    "setOptions": ["HP", "DEF", "EVA", "ATK", "CRIT", "HIT", "ANTI_STRIKER", "ANTI_DEFENDER", "ANTI_RANGER", "ANTI_SNIPER", "ANTI_SUPPORTER",
+        "ANTI_TOWER", "ANTI_SIEGE", "CRIT_DMG", "COOLDOWN", "ASPD"
+    ]
+}, {
+    "name": "Gordias Crown",
+    "employeeType": "COUNTER",
+    "category": "GORDIAS",
+    "imageUri": "images/Gear/Gordias/Gordias Crown.png",
+    "slot": "ACCESSORY",
+    "tier": 6,
+    "rarities": ["SSR"],
+    "primaryStat": "HIT",
+    "primaryStatGrowthByRarity": {
+        "SSR": {
+            "base": 149,
+            "perLevelGrowth": 11
+        }
+    },
+    "substat1Options": ["RANGED_DMG_RES"],
+    "substat1RangeByRarity": {
+        "SSR": {
+            "RANGED_DMG_RES": {
+                "minimum": 6.2,
+                "maximum": 12.3
+            }
+        }
+    },
+    "substat2Options": ["HP", "DEF", "ATK", "CRIT", "CRIT_DMG_RES", "CRIT_DMG", "SKILL_HASTE", "CC_RES",
+        "ANTI_AIR_DMG", "ANTI_AIR_DMG_RES", "ANTI_STRIKER_DMG", "ANTI_STRIKER_DMG_RES", "ANTI_DEFENDER_DMG", "ANTI_DEFENDER_DMG_RES",
+        "ANTI_RANGER_DMG", "ANTI_RANGER_DMG_RES", "ANTI_SNIPER_DMG", "ANTI_SNIPER_DMG_RES"
+    ],
+    "substat2RangeByRarity": {
+        "SSR": {
+            "HP": {
+                "minimum": 356,
+                "maximum": 1425
+            },
+            "DEF": {
+                "minimum": 40,
+                "maximum": 80
+            },
+            "ATK": {
+                "minimum": 74,
+                "maximum": 147
+            },
+            "CRIT": {
+                "minimum": 40,
+                "maximum": 80
+            },
+            "CRIT_DMG_RES": {
+                "minimum": 19.3,
+                "maximum": 38.5
+            },
+            "CRIT_DMG": {
+                "minimum": 5.5,
+                "maximum": 16.5
+            },
+            "SKILL_HASTE": {
+                "minimum": 5.5,
+                "maximum": 11.0
+            },
+            "CC_RES": {
+                "minimum": 11.0,
+                "maximum": 22.0
+            },
+            "ANTI_AIR_DMG": {
+                "minimum": 7.7,
+                "maximum": 15.4
+            },
+            "ANTI_AIR_DMG_RES": {
+                "minimum": 7.7,
+                "maximum": 15.4
+            },
+            "ANTI_STRIKER_DMG": {
+                "minimum": 7.7,
+                "maximum": 15.4
+            },
+            "ANTI_STRIKER_DMG_RES": {
+                "minimum": 7.7,
+                "maximum": 15.4
+            },
+            "ANTI_DEFENDER_DMG": {
+                "minimum": 7.7,
+                "maximum": 15.4
+            },
+            "ANTI_DEFENDER_DMG_RES": {
+                "minimum": 7.7,
+                "maximum": 15.4
+            },
+            "ANTI_RANGER_DMG": {
+                "minimum": 7.7,
+                "maximum": 15.4
+            },
+            "ANTI_RANGER_DMG_RES": {
+                "minimum": 7.7,
+                "maximum": 15.4
+            },
+            "ANTI_SNIPER_DMG": {
+                "minimum": 7.7,
+                "maximum": 15.4
+            },
+            "ANTI_SNIPER_DMG_RES": {
+                "minimum": 7.7,
+                "maximum": 15.4
+            }
+        }
+    },
+    "setOptions": ["HP", "DEF", "EVA", "ATK", "CRIT", "HIT", "ANTI_STRIKER", "ANTI_DEFENDER", "ANTI_RANGER", "ANTI_SNIPER", "ANTI_SUPPORTER",
+        "ANTI_TOWER", "ANTI_SIEGE", "CRIT_DMG", "COOLDOWN", "ASPD"
+    ]
+}, {
+    "name": "Gordias SW Scope",
+    "employeeType": "SOLDIER",
+    "category": "GORDIAS",
+    "imageUri": "images/Gear/Gordias/Gordias SW Scope.png",
+    "slot": "ACCESSORY",
+    "tier": 6,
+    "rarities": ["SSR"],
+    "primaryStat": "HIT",
+    "primaryStatGrowthByRarity": {
+        "SSR": {
+            "base": 112,
+            "perLevelGrowth": 8
+        }
+    },
+    "substat1Options": ["RANGED_DMG_RES"],
+    "substat1RangeByRarity": {
+        "SSR": {
+            "RANGED_DMG_RES": {
+                "minimum": 6.2,
+                "maximum": 12.3
+            }
+        }
+    },
+    "substat2Options": ["HP", "DEF", "ATK", "CRIT", "CRIT_DMG_RES", "CRIT_DMG", "SKILL_HASTE", "CC_RES",
+        "ANTI_AIR_DMG", "ANTI_AIR_DMG_RES", "ANTI_STRIKER_DMG", "ANTI_STRIKER_DMG_RES", "ANTI_DEFENDER_DMG", "ANTI_DEFENDER_DMG_RES",
+        "ANTI_RANGER_DMG", "ANTI_RANGER_DMG_RES", "ANTI_SNIPER_DMG", "ANTI_SNIPER_DMG_RES"
+    ],
+    "substat2RangeByRarity": {
+        "SSR": {
+            "HP": {
+                "minimum": 356,
+                "maximum": 1425
+            },
+            "DEF": {
+                "minimum": 40,
+                "maximum": 80
+            },
+            "ATK": {
+                "minimum": 74,
+                "maximum": 147
+            },
+            "CRIT": {
+                "minimum": 40,
+                "maximum": 80
+            },
+            "CRIT_DMG_RES": {
+                "minimum": 19.3,
+                "maximum": 38.5
+            },
+            "CRIT_DMG": {
+                "minimum": 5.5,
+                "maximum": 16.5
+            },
+            "SKILL_HASTE": {
+                "minimum": 5.5,
+                "maximum": 11.0
+            },
+            "CC_RES": {
+                "minimum": 11.0,
+                "maximum": 22.0
+            },
+            "ANTI_AIR_DMG": {
+                "minimum": 7.7,
+                "maximum": 15.4
+            },
+            "ANTI_AIR_DMG_RES": {
+                "minimum": 7.7,
+                "maximum": 15.4
+            },
+            "ANTI_STRIKER_DMG": {
+                "minimum": 7.7,
+                "maximum": 15.4
+            },
+            "ANTI_STRIKER_DMG_RES": {
+                "minimum": 7.7,
+                "maximum": 15.4
+            },
+            "ANTI_DEFENDER_DMG": {
+                "minimum": 7.7,
+                "maximum": 15.4
+            },
+            "ANTI_DEFENDER_DMG_RES": {
+                "minimum": 7.7,
+                "maximum": 15.4
+            },
+            "ANTI_RANGER_DMG": {
+                "minimum": 7.7,
+                "maximum": 15.4
+            },
+            "ANTI_RANGER_DMG_RES": {
+                "minimum": 7.7,
+                "maximum": 15.4
+            },
+            "ANTI_SNIPER_DMG": {
+                "minimum": 7.7,
+                "maximum": 15.4
+            },
+            "ANTI_SNIPER_DMG_RES": {
+                "minimum": 7.7,
+                "maximum": 15.4
+            }
+        }
+    },
+    "setOptions": ["HP", "DEF", "EVA", "ATK", "CRIT", "HIT", "ANTI_STRIKER", "ANTI_DEFENDER", "ANTI_RANGER", "ANTI_SNIPER", "ANTI_SUPPORTER",
+        "ANTI_TOWER", "ANTI_SIEGE", "CRIT_DMG", "COOLDOWN", "ASPD"
+    ]
+}, {
+    "name": "Gordias Integrated Sight",
+    "employeeType": "MECH",
+    "category": "GORDIAS",
+    "imageUri": "images/Gear/Gordias/Gordias Integrated Sight.png",
+    "slot": "ACCESSORY",
+    "tier": 6,
+    "rarities": ["SSR"],
+    "primaryStat": "HIT",
+    "primaryStatGrowthByRarity": {
+        "SSR": {
+            "base": 164,
+            "perLevelGrowth": 12
+        }
+    },
+    "substat1Options": ["RANGED_DMG_RES"],
+    "substat1RangeByRarity": {
+        "SSR": {
+            "RANGED_DMG_RES": {
+                "minimum": 6.2,
+                "maximum": 12.3
+            }
+        }
+    },
+    "substat2Options": ["HP", "DEF", "ATK", "CRIT", "CRIT_DMG_RES", "CRIT_DMG", "SKILL_HASTE", "CC_RES",
+        "ANTI_AIR_DMG", "ANTI_AIR_DMG_RES", "ANTI_STRIKER_DMG", "ANTI_STRIKER_DMG_RES", "ANTI_DEFENDER_DMG", "ANTI_DEFENDER_DMG_RES",
+        "ANTI_RANGER_DMG", "ANTI_RANGER_DMG_RES", "ANTI_SNIPER_DMG", "ANTI_SNIPER_DMG_RES"
+    ],
+    "substat2RangeByRarity": {
+        "SSR": {
+            "HP": {
+                "minimum": 356,
+                "maximum": 1425
+            },
+            "DEF": {
+                "minimum": 40,
+                "maximum": 80
+            },
+            "ATK": {
+                "minimum": 74,
+                "maximum": 147
+            },
+            "CRIT": {
+                "minimum": 40,
+                "maximum": 80
+            },
+            "CRIT_DMG_RES": {
+                "minimum": 19.3,
+                "maximum": 38.5
+            },
+            "CRIT_DMG": {
+                "minimum": 5.5,
+                "maximum": 16.5
+            },
+            "SKILL_HASTE": {
+                "minimum": 5.5,
+                "maximum": 11.0
+            },
+            "CC_RES": {
+                "minimum": 11.0,
+                "maximum": 22.0
+            },
+            "ANTI_AIR_DMG": {
+                "minimum": 7.7,
+                "maximum": 15.4
+            },
+            "ANTI_AIR_DMG_RES": {
+                "minimum": 7.7,
+                "maximum": 15.4
+            },
+            "ANTI_STRIKER_DMG": {
+                "minimum": 7.7,
+                "maximum": 15.4
+            },
+            "ANTI_STRIKER_DMG_RES": {
+                "minimum": 7.7,
+                "maximum": 15.4
+            },
+            "ANTI_DEFENDER_DMG": {
+                "minimum": 7.7,
+                "maximum": 15.4
+            },
+            "ANTI_DEFENDER_DMG_RES": {
+                "minimum": 7.7,
+                "maximum": 15.4
+            },
+            "ANTI_RANGER_DMG": {
+                "minimum": 7.7,
+                "maximum": 15.4
+            },
+            "ANTI_RANGER_DMG_RES": {
+                "minimum": 7.7,
+                "maximum": 15.4
+            },
+            "ANTI_SNIPER_DMG": {
+                "minimum": 7.7,
+                "maximum": 15.4
+            },
+            "ANTI_SNIPER_DMG_RES": {
+                "minimum": 7.7,
+                "maximum": 15.4
+            }
+        }
+    },
+    "setOptions": ["HP", "DEF", "EVA", "ATK", "CRIT", "HIT", "ANTI_STRIKER", "ANTI_DEFENDER", "ANTI_RANGER", "ANTI_SNIPER", "ANTI_SUPPORTER",
+        "ANTI_TOWER", "ANTI_SIEGE", "CRIT_DMG", "COOLDOWN", "ASPD"
+    ]
+}, {
+    "name": "Courageous Crown",
+    "employeeType": "COUNTER",
+    "category": "COURAGEOUS",
+    "imageUri": "images/Gear/Courageous/Courageous Crown.png",
+    "slot": "ACCESSORY",
+    "tier": 6,
+    "rarities": ["SSR"],
+    "primaryStat": "HIT",
+    "primaryStatGrowthByRarity": {
+        "SSR": {
+            "base": 149,
+            "perLevelGrowth": 11
+        }
+    },
+    "substat1Options": ["ANTI_COUNTER_DMG", "ANTI_SOLDIER_DMG", "ANTI_MECH_DMG"],
+    "substat1RangeByRarity": {
+        "SSR": {
+            "ANTI_COUNTER_DMG": {
+                "minimum": 7.7,
+                "maximum": 15.4
+            },
+            "ANTI_SOLDIER_DMG": {
+                "minimum": 7.7,
+                "maximum": 15.4
+            },
+            "ANTI_MECH_DMG": {
+                "minimum": 7.7,
+                "maximum": 15.4
+            }
+        }
+    },
+    "substat2Options": ["HP", "DEF", "ATK", "CRIT", "CRIT_DMG_RES", "CRIT_DMG", "SKILL_HASTE", "CC_RES",
+        "ANTI_STRIKER_DMG", "ANTI_STRIKER_DMG_RES", "ANTI_DEFENDER_DMG", "ANTI_DEFENDER_DMG_RES",
+        "ANTI_RANGER_DMG", "ANTI_RANGER_DMG_RES", "ANTI_SNIPER_DMG", "ANTI_SNIPER_DMG_RES"
+    ],
+    "substat2RangeByRarity": {
+        "SSR": {
+            "HP": {
+                "minimum": 356,
+                "maximum": 1425
+            },
+            "DEF": {
+                "minimum": 40,
+                "maximum": 80
+            },
+            "ATK": {
+                "minimum": 74,
+                "maximum": 147
+            },
+            "CRIT": {
+                "minimum": 40,
+                "maximum": 80
+            },
+            "CRIT_DMG_RES": {
+                "minimum": 19.3,
+                "maximum": 38.5
+            },
+            "CRIT_DMG": {
+                "minimum": 5.5,
+                "maximum": 16.5
+            },
+            "SKILL_HASTE": {
+                "minimum": 5.5,
+                "maximum": 11.0
+            },
+            "CC_RES": {
+                "minimum": 11.0,
+                "maximum": 22.0
+            },
+            "ANTI_STRIKER_DMG": {
+                "minimum": 7.7,
+                "maximum": 15.4
+            },
+            "ANTI_STRIKER_DMG_RES": {
+                "minimum": 7.7,
+                "maximum": 15.4
+            },
+            "ANTI_DEFENDER_DMG": {
+                "minimum": 7.7,
+                "maximum": 15.4
+            },
+            "ANTI_DEFENDER_DMG_RES": {
+                "minimum": 7.7,
+                "maximum": 15.4
+            },
+            "ANTI_RANGER_DMG": {
+                "minimum": 7.7,
+                "maximum": 15.4
+            },
+            "ANTI_RANGER_DMG_RES": {
+                "minimum": 7.7,
+                "maximum": 15.4
+            },
+            "ANTI_SNIPER_DMG": {
+                "minimum": 7.7,
+                "maximum": 15.4
+            },
+            "ANTI_SNIPER_DMG_RES": {
+                "minimum": 7.7,
+                "maximum": 15.4
+            }
+        }
+    },
+    "setOptions": ["HP", "DEF", "EVA", "ATK", "CRIT", "HIT", "ANTI_STRIKER", "ANTI_DEFENDER", "ANTI_RANGER", "ANTI_SNIPER", "ANTI_SUPPORTER",
+        "ANTI_TOWER", "ANTI_SIEGE", "CRIT_DMG", "COOLDOWN", "ASPD"
+    ]
+}, {
+    "name": "Courageous Scope",
+    "employeeType": "SOLDIER",
+    "category": "COURAGEOUS",
+    "imageUri": "images/Gear/Courageous/Courageous Scope.png",
+    "slot": "ACCESSORY",
+    "tier": 6,
+    "rarities": ["SSR"],
+    "primaryStat": "HIT",
+    "primaryStatGrowthByRarity": {
+        "SSR": {
+            "base": 112,
+            "perLevelGrowth": 8
+        }
+    },
+    "substat1Options": ["ANTI_COUNTER_DMG", "ANTI_SOLDIER_DMG", "ANTI_MECH_DMG"],
+    "substat1RangeByRarity": {
+        "SSR": {
+            "ANTI_COUNTER_DMG": {
+                "minimum": 7.7,
+                "maximum": 15.4
+            },
+            "ANTI_SOLDIER_DMG": {
+                "minimum": 7.7,
+                "maximum": 15.4
+            },
+            "ANTI_MECH_DMG": {
+                "minimum": 7.7,
+                "maximum": 15.4
+            }
+        }
+    },
+    "substat2Options": ["HP", "DEF", "ATK", "CRIT", "CRIT_DMG_RES", "CRIT_DMG", "SKILL_HASTE", "CC_RES",
+        "ANTI_STRIKER_DMG", "ANTI_STRIKER_DMG_RES", "ANTI_DEFENDER_DMG", "ANTI_DEFENDER_DMG_RES",
+        "ANTI_RANGER_DMG", "ANTI_RANGER_DMG_RES", "ANTI_SNIPER_DMG", "ANTI_SNIPER_DMG_RES"
+    ],
+    "substat2RangeByRarity": {
+        "SSR": {
+            "HP": {
+                "minimum": 356,
+                "maximum": 1425
+            },
+            "DEF": {
+                "minimum": 40,
+                "maximum": 80
+            },
+            "ATK": {
+                "minimum": 74,
+                "maximum": 147
+            },
+            "CRIT": {
+                "minimum": 40,
+                "maximum": 80
+            },
+            "CRIT_DMG_RES": {
+                "minimum": 19.3,
+                "maximum": 38.5
+            },
+            "CRIT_DMG": {
+                "minimum": 5.5,
+                "maximum": 16.5
+            },
+            "SKILL_HASTE": {
+                "minimum": 5.5,
+                "maximum": 11.0
+            },
+            "CC_RES": {
+                "minimum": 11.0,
+                "maximum": 22.0
+            },
+            "ANTI_STRIKER_DMG": {
+                "minimum": 7.7,
+                "maximum": 15.4
+            },
+            "ANTI_STRIKER_DMG_RES": {
+                "minimum": 7.7,
+                "maximum": 15.4
+            },
+            "ANTI_DEFENDER_DMG": {
+                "minimum": 7.7,
+                "maximum": 15.4
+            },
+            "ANTI_DEFENDER_DMG_RES": {
+                "minimum": 7.7,
+                "maximum": 15.4
+            },
+            "ANTI_RANGER_DMG": {
+                "minimum": 7.7,
+                "maximum": 15.4
+            },
+            "ANTI_RANGER_DMG_RES": {
+                "minimum": 7.7,
+                "maximum": 15.4
+            },
+            "ANTI_SNIPER_DMG": {
+                "minimum": 7.7,
+                "maximum": 15.4
+            },
+            "ANTI_SNIPER_DMG_RES": {
+                "minimum": 7.7,
+                "maximum": 15.4
+            }
+        }
+    },
+    "setOptions": ["HP", "DEF", "EVA", "ATK", "CRIT", "HIT", "ANTI_STRIKER", "ANTI_DEFENDER", "ANTI_RANGER", "ANTI_SNIPER", "ANTI_SUPPORTER",
+        "ANTI_TOWER", "ANTI_SIEGE", "CRIT_DMG", "COOLDOWN", "ASPD"
+    ]
+}, {
+    "name": "Courageous Sight",
+    "employeeType": "MECH",
+    "category": "COURAGEOUS",
+    "imageUri": "images/Gear/Courageous/Courageous Sight.png",
+    "slot": "ACCESSORY",
+    "tier": 6,
+    "rarities": ["SSR"],
+    "primaryStat": "HIT",
+    "primaryStatGrowthByRarity": {
+        "SSR": {
+            "base": 164,
+            "perLevelGrowth": 12
+        }
+    },
+    "substat1Options": ["ANTI_COUNTER_DMG", "ANTI_SOLDIER_DMG", "ANTI_MECH_DMG"],
+    "substat1RangeByRarity": {
+        "SSR": {
+            "ANTI_COUNTER_DMG": {
+                "minimum": 7.7,
+                "maximum": 15.4
+            },
+            "ANTI_SOLDIER_DMG": {
+                "minimum": 7.7,
+                "maximum": 15.4
+            },
+            "ANTI_MECH_DMG": {
+                "minimum": 7.7,
+                "maximum": 15.4
+            }
+        }
+    },
+    "substat2Options": ["HP", "DEF", "ATK", "CRIT", "CRIT_DMG_RES", "CRIT_DMG", "SKILL_HASTE", "CC_RES",
+        "ANTI_STRIKER_DMG", "ANTI_STRIKER_DMG_RES", "ANTI_DEFENDER_DMG", "ANTI_DEFENDER_DMG_RES",
+        "ANTI_RANGER_DMG", "ANTI_RANGER_DMG_RES", "ANTI_SNIPER_DMG", "ANTI_SNIPER_DMG_RES"
+    ],
+    "substat2RangeByRarity": {
+        "SSR": {
+            "HP": {
+                "minimum": 356,
+                "maximum": 1425
+            },
+            "DEF": {
+                "minimum": 40,
+                "maximum": 80
+            },
+            "ATK": {
+                "minimum": 74,
+                "maximum": 147
+            },
+            "CRIT": {
+                "minimum": 40,
+                "maximum": 80
+            },
+            "CRIT_DMG_RES": {
+                "minimum": 19.3,
+                "maximum": 38.5
+            },
+            "CRIT_DMG": {
+                "minimum": 5.5,
+                "maximum": 16.5
+            },
+            "SKILL_HASTE": {
+                "minimum": 5.5,
+                "maximum": 11.0
+            },
+            "CC_RES": {
+                "minimum": 11.0,
+                "maximum": 22.0
+            },
+            "ANTI_STRIKER_DMG": {
+                "minimum": 7.7,
+                "maximum": 15.4
+            },
+            "ANTI_STRIKER_DMG_RES": {
+                "minimum": 7.7,
+                "maximum": 15.4
+            },
+            "ANTI_DEFENDER_DMG": {
+                "minimum": 7.7,
+                "maximum": 15.4
+            },
+            "ANTI_DEFENDER_DMG_RES": {
+                "minimum": 7.7,
+                "maximum": 15.4
+            },
+            "ANTI_RANGER_DMG": {
+                "minimum": 7.7,
+                "maximum": 15.4
+            },
+            "ANTI_RANGER_DMG_RES": {
+                "minimum": 7.7,
+                "maximum": 15.4
+            },
+            "ANTI_SNIPER_DMG": {
+                "minimum": 7.7,
+                "maximum": 15.4
+            },
+            "ANTI_SNIPER_DMG_RES": {
+                "minimum": 7.7,
+                "maximum": 15.4
+            }
+        }
+    },
+    "setOptions": ["HP", "DEF", "EVA", "ATK", "CRIT", "HIT", "ANTI_STRIKER", "ANTI_DEFENDER", "ANTI_RANGER", "ANTI_SNIPER", "ANTI_SUPPORTER",
+        "ANTI_TOWER", "ANTI_SIEGE", "CRIT_DMG", "COOLDOWN", "ASPD"
+    ]
+}, {
+    "name": "Sincere Movement",
+    "employeeType": "COUNTER",
+    "category": "SINCERE",
+    "imageUri": "images/Gear/Sincere/Sincere Movement.png",
+    "slot": "ACCESSORY",
+    "tier": 6,
+    "rarities": ["SSR"],
+    "primaryStat": "EVA",
+    "primaryStatGrowthByRarity": {
+        "SSR": {
+            "base": 149,
+            "perLevelGrowth": 11
+        }
+    },
+    "substat1Options": ["ANTI_COUNTER_DMG_RES", "ANTI_SOLDIER_DMG_RES", "ANTI_MECH_DMG_RES"],
+    "substat1RangeByRarity": {
+        "SSR": {
+            "ANTI_COUNTER_DMG_RES": {
+                "minimum": 7.7,
+                "maximum": 15.4
+            },
+            "ANTI_SOLDIER_DMG_RES": {
+                "minimum": 7.7,
+                "maximum": 15.4
+            },
+            "ANTI_MECH_DMG_RES": {
+                "minimum": 7.7,
+                "maximum": 15.4
+            }
+        }
+    },
+    "substat2Options": ["HP", "DEF", "ATK", "CRIT", "CRIT_DMG_RES", "CRIT_DMG", "SKILL_HASTE", "CC_RES",
+        "ANTI_STRIKER_DMG", "ANTI_STRIKER_DMG_RES", "ANTI_DEFENDER_DMG", "ANTI_DEFENDER_DMG_RES",
+        "ANTI_RANGER_DMG", "ANTI_RANGER_DMG_RES", "ANTI_SNIPER_DMG", "ANTI_SNIPER_DMG_RES"
+    ],
+    "substat2RangeByRarity": {
+        "SSR": {
+            "HP": {
+                "minimum": 356,
+                "maximum": 1425
+            },
+            "DEF": {
+                "minimum": 40,
+                "maximum": 80
+            },
+            "ATK": {
+                "minimum": 74,
+                "maximum": 147
+            },
+            "CRIT": {
+                "minimum": 40,
+                "maximum": 80
+            },
+            "CRIT_DMG_RES": {
+                "minimum": 19.3,
+                "maximum": 38.5
+            },
+            "CRIT_DMG": {
+                "minimum": 5.5,
+                "maximum": 16.5
+            },
+            "SKILL_HASTE": {
+                "minimum": 5.5,
+                "maximum": 11.0
+            },
+            "CC_RES": {
+                "minimum": 11.0,
+                "maximum": 22.0
+            },
+            "ANTI_STRIKER_DMG": {
+                "minimum": 7.7,
+                "maximum": 15.4
+            },
+            "ANTI_STRIKER_DMG_RES": {
+                "minimum": 7.7,
+                "maximum": 15.4
+            },
+            "ANTI_DEFENDER_DMG": {
+                "minimum": 7.7,
+                "maximum": 15.4
+            },
+            "ANTI_DEFENDER_DMG_RES": {
+                "minimum": 7.7,
+                "maximum": 15.4
+            },
+            "ANTI_RANGER_DMG": {
+                "minimum": 7.7,
+                "maximum": 15.4
+            },
+            "ANTI_RANGER_DMG_RES": {
+                "minimum": 7.7,
+                "maximum": 15.4
+            },
+            "ANTI_SNIPER_DMG": {
+                "minimum": 7.7,
+                "maximum": 15.4
+            },
+            "ANTI_SNIPER_DMG_RES": {
+                "minimum": 7.7,
+                "maximum": 15.4
+            }
+        }
+    },
+    "setOptions": ["HP", "DEF", "EVA", "ATK", "CRIT", "HIT", "ANTI_STRIKER", "ANTI_DEFENDER", "ANTI_RANGER", "ANTI_SNIPER", "ANTI_SUPPORTER",
+        "ANTI_TOWER", "ANTI_SIEGE", "CRIT_DMG", "COOLDOWN", "ASPD"
+    ]
+}, {
+    "name": "Sincere Skeleton",
+    "employeeType": "SOLDIER",
+    "category": "SINCERE",
+    "imageUri": "images/Gear/Sincere/Sincere Skeleton.png",
+    "slot": "ACCESSORY",
+    "tier": 6,
+    "rarities": ["SSR"],
+    "primaryStat": "EVA",
+    "primaryStatGrowthByRarity": {
+        "SSR": {
+            "base": 112,
+            "perLevelGrowth": 8
+        }
+    },
+    "substat1Options": ["ANTI_COUNTER_DMG_RES", "ANTI_SOLDIER_DMG_RES", "ANTI_MECH_DMG_RES"],
+    "substat1RangeByRarity": {
+        "SSR": {
+            "ANTI_COUNTER_DMG_RES": {
+                "minimum": 7.7,
+                "maximum": 15.4
+            },
+            "ANTI_SOLDIER_DMG_RES": {
+                "minimum": 7.7,
+                "maximum": 15.4
+            },
+            "ANTI_MECH_DMG_RES": {
+                "minimum": 7.7,
+                "maximum": 15.4
+            }
+        }
+    },
+    "substat2Options": ["HP", "DEF", "ATK", "CRIT", "CRIT_DMG_RES", "CRIT_DMG", "SKILL_HASTE", "CC_RES",
+        "ANTI_STRIKER_DMG", "ANTI_STRIKER_DMG_RES", "ANTI_DEFENDER_DMG", "ANTI_DEFENDER_DMG_RES",
+        "ANTI_RANGER_DMG", "ANTI_RANGER_DMG_RES", "ANTI_SNIPER_DMG", "ANTI_SNIPER_DMG_RES"
+    ],
+    "substat2RangeByRarity": {
+        "SSR": {
+            "HP": {
+                "minimum": 356,
+                "maximum": 1425
+            },
+            "DEF": {
+                "minimum": 40,
+                "maximum": 80
+            },
+            "ATK": {
+                "minimum": 74,
+                "maximum": 147
+            },
+            "CRIT": {
+                "minimum": 40,
+                "maximum": 80
+            },
+            "CRIT_DMG_RES": {
+                "minimum": 19.3,
+                "maximum": 38.5
+            },
+            "CRIT_DMG": {
+                "minimum": 5.5,
+                "maximum": 16.5
+            },
+            "SKILL_HASTE": {
+                "minimum": 5.5,
+                "maximum": 11.0
+            },
+            "CC_RES": {
+                "minimum": 11.0,
+                "maximum": 22.0
+            },
+            "ANTI_STRIKER_DMG": {
+                "minimum": 7.7,
+                "maximum": 15.4
+            },
+            "ANTI_STRIKER_DMG_RES": {
+                "minimum": 7.7,
+                "maximum": 15.4
+            },
+            "ANTI_DEFENDER_DMG": {
+                "minimum": 7.7,
+                "maximum": 15.4
+            },
+            "ANTI_DEFENDER_DMG_RES": {
+                "minimum": 7.7,
+                "maximum": 15.4
+            },
+            "ANTI_RANGER_DMG": {
+                "minimum": 7.7,
+                "maximum": 15.4
+            },
+            "ANTI_RANGER_DMG_RES": {
+                "minimum": 7.7,
+                "maximum": 15.4
+            },
+            "ANTI_SNIPER_DMG": {
+                "minimum": 7.7,
+                "maximum": 15.4
+            },
+            "ANTI_SNIPER_DMG_RES": {
+                "minimum": 7.7,
+                "maximum": 15.4
+            }
+        }
+    },
+    "setOptions": ["HP", "DEF", "EVA", "ATK", "CRIT", "HIT", "ANTI_STRIKER", "ANTI_DEFENDER", "ANTI_RANGER", "ANTI_SNIPER", "ANTI_SUPPORTER",
+        "ANTI_TOWER", "ANTI_SIEGE", "CRIT_DMG", "COOLDOWN", "ASPD"
+    ]
+}, {
+    "name": "Sincere Radar",
+    "employeeType": "MECH",
+    "category": "SINCERE",
+    "imageUri": "images/Gear/Sincere/Sincere Radar.png",
+    "slot": "ACCESSORY",
+    "tier": 6,
+    "rarities": ["SSR"],
+    "primaryStat": "EVA",
+    "primaryStatGrowthByRarity": {
+        "SSR": {
+            "base": 164,
+            "perLevelGrowth": 12
+        }
+    },
+    "substat1Options": ["ANTI_COUNTER_DMG_RES", "ANTI_SOLDIER_DMG_RES", "ANTI_MECH_DMG_RES"],
+    "substat1RangeByRarity": {
+        "SSR": {
+            "ANTI_COUNTER_DMG_RES": {
+                "minimum": 7.7,
+                "maximum": 15.4
+            },
+            "ANTI_SOLDIER_DMG_RES": {
+                "minimum": 7.7,
+                "maximum": 15.4
+            },
+            "ANTI_MECH_DMG_RES": {
+                "minimum": 7.7,
+                "maximum": 15.4
+            }
+        }
+    },
+    "substat2Options": ["HP", "DEF", "ATK", "CRIT", "CRIT_DMG_RES", "CRIT_DMG", "SKILL_HASTE", "CC_RES",
+        "ANTI_STRIKER_DMG", "ANTI_STRIKER_DMG_RES", "ANTI_DEFENDER_DMG", "ANTI_DEFENDER_DMG_RES",
+        "ANTI_RANGER_DMG", "ANTI_RANGER_DMG_RES", "ANTI_SNIPER_DMG", "ANTI_SNIPER_DMG_RES"
+    ],
+    "substat2RangeByRarity": {
+        "SSR": {
+            "HP": {
+                "minimum": 356,
+                "maximum": 1425
+            },
+            "DEF": {
+                "minimum": 40,
+                "maximum": 80
+            },
+            "ATK": {
+                "minimum": 74,
+                "maximum": 147
+            },
+            "CRIT": {
+                "minimum": 40,
+                "maximum": 80
+            },
+            "CRIT_DMG_RES": {
+                "minimum": 19.3,
+                "maximum": 38.5
+            },
+            "CRIT_DMG": {
+                "minimum": 5.5,
+                "maximum": 16.5
+            },
+            "SKILL_HASTE": {
+                "minimum": 5.5,
+                "maximum": 11.0
+            },
+            "CC_RES": {
+                "minimum": 11.0,
+                "maximum": 22.0
+            },
+            "ANTI_STRIKER_DMG": {
+                "minimum": 7.7,
+                "maximum": 15.4
+            },
+            "ANTI_STRIKER_DMG_RES": {
+                "minimum": 7.7,
+                "maximum": 15.4
+            },
+            "ANTI_DEFENDER_DMG": {
+                "minimum": 7.7,
+                "maximum": 15.4
+            },
+            "ANTI_DEFENDER_DMG_RES": {
+                "minimum": 7.7,
+                "maximum": 15.4
+            },
+            "ANTI_RANGER_DMG": {
+                "minimum": 7.7,
+                "maximum": 15.4
+            },
+            "ANTI_RANGER_DMG_RES": {
+                "minimum": 7.7,
+                "maximum": 15.4
+            },
+            "ANTI_SNIPER_DMG": {
+                "minimum": 7.7,
+                "maximum": 15.4
+            },
+            "ANTI_SNIPER_DMG_RES": {
+                "minimum": 7.7,
+                "maximum": 15.4
+            }
+        }
+    },
+    "setOptions": ["HP", "DEF", "EVA", "ATK", "CRIT", "HIT", "ANTI_STRIKER", "ANTI_DEFENDER", "ANTI_RANGER", "ANTI_SNIPER", "ANTI_SUPPORTER",
+        "ANTI_TOWER", "ANTI_SIEGE", "CRIT_DMG", "COOLDOWN", "ASPD"
+    ]
+}, {
+    "name": "Hummingbird Hands",
+    "employeeType": "COUNTER",
+    "category": "HUMMINGBIRD",
+    "imageUri": "images/Gear/Hummingbird/Hummingbird Hands.png",
+    "slot": "WEAPON",
+    "tier": 6,
+    "rarities": ["SSR"],
+    "primaryStat": "ATK",
+    "primaryStatGrowthByRarity": {
+        "SSR": {
+            "base": 206,
+            "perLevelGrowth": 15
+
+        }
+    },
+    "substat1Options": ["DMG_RES", "MELEE_DMG_RES", "RANGED_DMG_RES"],
+    "substat1RangeByRarity": {
+        "SSR": {
+            "DMG_RES": {
+                "minimum": 2.0,
+                "maximum": 4.0
+            },
+            "MELEE_DMG_RES": {
+                "minimum": 5.6,
+                "maximum": 11.2
+            },
+            "RANGED_DMG_RES": {
+                "minimum": 5.6,
+                "maximum": 11.2
+            }
+        }
+    },
+    "substat2Options": ["DEF", "EVA", "CRIT", "HIT", "SPD", "CRIT_DMG_RES", "CRIT_DMG", "SKILL_HASTE", "CC_RES", "ASPD", "ANTI_GROUND_DMG", "ANTI_AIR_DMG", "ANTI_STRIKER_DMG", "ANTI_DEFENDER_DMG", "ANTI_RANGER_DMG", "ANTI_SNIPER_DMG"],
+    "substat2RangeByRarity": {
+        "SSR": {
+            "DEF": {
+                "minimum": 37,
+                "maximum": 73
+            },
+            "EVA": {
+                "minimum": 37,
+                "maximum": 73
+            },
+            "CRIT": {
+                "minimum": 37,
+                "maximum": 73
+            },
+            "HIT": {
+                "minimum": 37,
+                "maximum": 73
+            },
+            "SPD": {
+                "minimum": 3.8,
+                "maximum": 7.5
+            },
+            "CRIT_DMG_RES": {
+                "minimum": 17.5,
+                "maximum": 35.0
+            },
+            "CRIT_DMG": {
+                "minimum": 5.0,
+                "maximum": 15.0
+            },
+            "SKILL_HASTE": {
+                "minimum": 5.0,
+                "maximum": 10.0
+            },
+            "CC_RES": {
+                "minimum": 10.0,
+                "maximum": 20.0
+            },
+            "ASPD": {
+                "minimum": 2.8,
+                "maximum": 5.5
+            },
+            "ANTI_GROUND_DMG": {
+                "minimum": 7.0,
+                "maximum": 14.0
+            },
+            "ANTI_AIR_DMG": {
+                "minimum": 7.0,
+                "maximum": 14.0
+            },
+            "ANTI_STRIKER_DMG": {
+                "minimum": 7.0,
+                "maximum": 14.0
+            },
+            "ANTI_DEFENDER_DMG": {
+                "minimum": 7.0,
+                "maximum": 14.0
+            },
+            "ANTI_RANGER_DMG": {
+                "minimum": 7.0,
+                "maximum": 14.0
+            },
+            "ANTI_SNIPER_DMG": {
+                "minimum": 7.0,
+                "maximum": 14.0
+            }
+        }
+    },
+    "setOptions": ["HP", "DEF", "EVA", "ATK", "CRIT", "HIT", "ANTI_STRIKER", "ANTI_DEFENDER", "ANTI_RANGER", "ANTI_SNIPER", "ANTI_SUPPORTER",
+        "ANTI_TOWER", "ANTI_SIEGE", "CRIT_DMG", "COOLDOWN", "ASPD"
+    ]
+}, {
+    "name": "Hummingbird Trigger",
+    "employeeType": "SOLDIER",
+    "category": "HUMMINGBIRD",
+    "imageUri": "images/Gear/Hummingbird/Hummingbird Trigger.png",
+    "slot": "WEAPON",
+    "tier": 6,
+    "rarities": ["SSR"],
+    "primaryStat": "ATK",
+    "primaryStatGrowthByRarity": {
+        "SSR": {
+            "base": 206,
+            "perLevelGrowth": 15
+        }
+    },
+    "substat1Options": ["DMG_RES", "MELEE_DMG_RES", "RANGED_DMG_RES"],
+    "substat1RangeByRarity": {
+        "SSR": {
+            "DMG_RES": {
+                "minimum": 2.0,
+                "maximum": 4.0
+            },
+            "MELEE_DMG_RES": {
+                "minimum": 5.6,
+                "maximum": 11.2
+            },
+            "RANGED_DMG_RES": {
+                "minimum": 5.6,
+                "maximum": 11.2
+            }
+        }
+    },
+    "substat2Options": ["DEF", "EVA", "CRIT", "HIT", "SPD", "CRIT_DMG_RES", "CRIT_DMG", "SKILL_HASTE", "CC_RES", "ASPD", "ANTI_GROUND_DMG", "ANTI_AIR_DMG", "ANTI_STRIKER_DMG", "ANTI_DEFENDER_DMG", "ANTI_RANGER_DMG", "ANTI_SNIPER_DMG"],
+    "substat2RangeByRarity": {
+        "SSR": {
+            "DEF": {
+                "minimum": 37,
+                "maximum": 73
+            },
+            "EVA": {
+                "minimum": 37,
+                "maximum": 73
+            },
+            "CRIT": {
+                "minimum": 37,
+                "maximum": 73
+            },
+            "HIT": {
+                "minimum": 37,
+                "maximum": 73
+            },
+            "SPD": {
+                "minimum": 3.8,
+                "maximum": 7.5
+            },
+            "CRIT_DMG_RES": {
+                "minimum": 17.5,
+                "maximum": 35.0
+            },
+            "CRIT_DMG": {
+                "minimum": 5.0,
+                "maximum": 15.0
+            },
+            "SKILL_HASTE": {
+                "minimum": 5.0,
+                "maximum": 10.0
+            },
+            "CC_RES": {
+                "minimum": 10.0,
+                "maximum": 20.0
+            },
+            "ASPD": {
+                "minimum": 2.8,
+                "maximum": 5.5
+            },
+            "ANTI_GROUND_DMG": {
+                "minimum": 7.0,
+                "maximum": 14.0
+            },
+            "ANTI_AIR_DMG": {
+                "minimum": 7.0,
+                "maximum": 14.0
+            },
+            "ANTI_STRIKER_DMG": {
+                "minimum": 7.0,
+                "maximum": 14.0
+            },
+            "ANTI_DEFENDER_DMG": {
+                "minimum": 7.0,
+                "maximum": 14.0
+            },
+            "ANTI_RANGER_DMG": {
+                "minimum": 7.0,
+                "maximum": 14.0
+            },
+            "ANTI_SNIPER_DMG": {
+                "minimum": 7.0,
+                "maximum": 14.0
+            }
+        }
+    },
+    "setOptions": ["HP", "DEF", "EVA", "ATK", "CRIT", "HIT", "ANTI_STRIKER", "ANTI_DEFENDER", "ANTI_RANGER", "ANTI_SNIPER", "ANTI_SUPPORTER",
+        "ANTI_TOWER", "ANTI_SIEGE", "CRIT_DMG", "COOLDOWN", "ASPD"
+    ]
+}, {
+    "name": "Hummingbird Shell",
+    "employeeType": "MECH",
+    "category": "HUMMINGBIRD",
+    "imageUri": "images/Gear/Hummingbird/Hummingbird Shell.png",
+    "slot": "WEAPON",
+    "tier": 6,
+    "rarities": ["SSR"],
+    "primaryStat": "ATK",
+    "primaryStatGrowthByRarity": {
+        "SSR": {
+            "base": 206,
+            "perLevelGrowth": 15
+        }
+    },
+    "substat1Options": ["DMG_RES", "MELEE_DMG_RES", "RANGED_DMG_RES"],
+    "substat1RangeByRarity": {
+        "SSR": {
+            "DMG_RES": {
+                "minimum": 2.0,
+                "maximum": 4.0
+            },
+            "MELEE_DMG_RES": {
+                "minimum": 5.6,
+                "maximum": 11.2
+            },
+            "RANGED_DMG_RES": {
+                "minimum": 5.6,
+                "maximum": 11.2
+            }
+        }
+    },
+    "substat2Options": ["DEF", "EVA", "CRIT", "HIT", "SPD", "CRIT_DMG_RES", "CRIT_DMG", "SKILL_HASTE", "CC_RES", "ASPD", "ANTI_GROUND_DMG", "ANTI_AIR_DMG", "ANTI_STRIKER_DMG", "ANTI_DEFENDER_DMG", "ANTI_RANGER_DMG", "ANTI_SNIPER_DMG"],
+    "substat2RangeByRarity": {
+        "SSR": {
+            "DEF": {
+                "minimum": 37,
+                "maximum": 73
+            },
+            "EVA": {
+                "minimum": 37,
+                "maximum": 73
+            },
+            "CRIT": {
+                "minimum": 37,
+                "maximum": 73
+            },
+            "HIT": {
+                "minimum": 37,
+                "maximum": 73
+            },
+            "SPD": {
+                "minimum": 3.8,
+                "maximum": 7.5
+            },
+            "CRIT_DMG_RES": {
+                "minimum": 17.5,
+                "maximum": 35.0
+            },
+            "CRIT_DMG": {
+                "minimum": 5.0,
+                "maximum": 15.0
+            },
+            "SKILL_HASTE": {
+                "minimum": 5.0,
+                "maximum": 10.0
+            },
+            "CC_RES": {
+                "minimum": 10.0,
+                "maximum": 20.0
+            },
+            "ASPD": {
+                "minimum": 2.8,
+                "maximum": 5.5
+            },
+            "ANTI_GROUND_DMG": {
+                "minimum": 7.0,
+                "maximum": 14.0
+            },
+            "ANTI_AIR_DMG": {
+                "minimum": 7.0,
+                "maximum": 14.0
+            },
+            "ANTI_STRIKER_DMG": {
+                "minimum": 7.0,
+                "maximum": 14.0
+            },
+            "ANTI_DEFENDER_DMG": {
+                "minimum": 7.0,
+                "maximum": 14.0
+            },
+            "ANTI_RANGER_DMG": {
+                "minimum": 7.0,
+                "maximum": 14.0
+            },
+            "ANTI_SNIPER_DMG": {
+                "minimum": 7.0,
+                "maximum": 14.0
+            }
+        }
+    },
+    "setOptions": ["HP", "DEF", "EVA", "ATK", "CRIT", "HIT", "ANTI_STRIKER", "ANTI_DEFENDER", "ANTI_RANGER", "ANTI_SNIPER", "ANTI_SUPPORTER",
+        "ANTI_TOWER", "ANTI_SIEGE", "CRIT_DMG", "COOLDOWN", "ASPD"
+    ]
+}]

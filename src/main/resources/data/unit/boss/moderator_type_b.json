@@ -1,0 +1,39 @@
+{
+    "name": "Moderator Type B",
+    "roleType": "RANGER",
+    "attackType": "ALL_AROUND",
+    "movementType": "GROUND",
+    "NORMAL": {
+        "level": 80,
+        "baseStats" : {
+            "health": 525783,	
+            "attack": 3217,
+            "defense": 798,
+            "crit": 758,
+            "hit": 648,
+            "evasion": 832
+        }
+    },
+    "HARD": {
+        "level": 100,
+        "baseStats" : {
+            "health": 830831,
+            "attack": 5279,
+            "defense": 1156,
+            "crit": 970,
+            "hit": 938,
+            "evasion": 1203
+        }
+    },
+    "NIGHTMARE": {
+        "level": 130,
+        "baseStats" : {
+            "health": 1867263,
+            "attack": 12548,
+            "defense": 1857,
+            "crit": 1558,
+            "hit": 1500,
+            "evasion": 3000
+        }
+    }
+}
